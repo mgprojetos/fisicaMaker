@@ -1,2 +1,2 @@
 # fisicaMaker
-Objetos de ensino aprendizagem que surfam na onda Maker
+Objetos de ensino aprendizagem para aulas de CINEMÁTICA do Ensino Médio.
